@@ -9,3 +9,5 @@ residency and the pmgr DVFS table to report the GPU's effective clock as % of ma
 - `throttle_probe.sh <label> [min]` — sustained R3D decode load test with a thermon log and summary (results in `probes/`, not tracked)
 
 Build: `./build.sh [outdir]`
+
+License: MIT (see LICENSE)
