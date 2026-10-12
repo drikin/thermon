@@ -1,0 +1,6 @@
+thermon
+*.o
+ThermonBar.app/
+probes/
+build/
+.DS_Store
