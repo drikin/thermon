@@ -1,5 +1,9 @@
 # thermon
 
+> **試してみたい方へ：** このリポジトリの URL をあなたの AI（Claude Code などのコーディングエージェント）にコピペして「ビルドしてインストールして」と頼めば、Apple Silicon の Mac ならあとは AI がやってくれるはずです。
+>
+> **Want to try it?** Paste this repository's URL into your AI coding agent (e.g. Claude Code) and ask it to build and install it. On an Apple Silicon Mac, it should take care of the rest.
+
 Apple Silicon GPU thermal-throttling monitor (no sudo). Reads IOReport "GPU Stats / GPU Performance States"
 residency and the pmgr DVFS table to report the GPU's effective clock as % of max, plus busy % and
 `ProcessInfo.thermalState`.
